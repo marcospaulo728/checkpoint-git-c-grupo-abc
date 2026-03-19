@@ -5,4 +5,6 @@ int main(void) {
     printf("Izabelly de Oliveira Menezes\n");
     printf("Otávio Henrique Mancilia Santos\n");
     printf("Gabriela Angel Araujo de Rezende Silva");
+
+    return 0;
 }
